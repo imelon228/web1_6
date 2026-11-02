@@ -1,4 +1,4 @@
-<img width="580" height="480" alt="image" src="https://github.com/user-attachments/assets/07438078-ea27-4353-bb51-cf15e0ee12e1" />Aidyn Yeskendirov 
+Aidyn Yeskendirov 
 
 IT-2504
 
