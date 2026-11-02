@@ -1,0 +1,32 @@
+* {
+    padding: 5px;
+    margin: 3px;
+}
+
+#jsPic, #htmlPic {
+    display: none;
+}
+
+.slideHeading {
+    cursor: pointer;  /* Yes I know that one, pls dont assume its AI */
+    padding: 10px;
+}
+
+.slidePanel {
+    display: none;
+    padding: 10px;
+}
+
+.progress {
+    width: 300px;
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progressBar {
+    width: 0;
+    height: 100%;
+    background-color: blue;
+}
