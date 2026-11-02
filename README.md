@@ -2,7 +2,9 @@ Aidyn Yeskendirov
 
 IT-2504
 
-Assignment #6. jQuery (Selectors, Effects, Animations)
+Assignment #6. jQuery (Selectors, Effects, Animations) 
+
+https://imelon228.github.io/web1_6/
 
 Task 0. Setup
 <img width="557" height="178" alt="image" src="https://github.com/user-attachments/assets/f2c80de4-d9d3-4cac-89b7-433542f3f53f" />
